@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "BellaBank",
   description: "Where Banking Clicks",
   icons: {
-    icon: "/public/icons/bellabank.svg",
+    icon: "/public/icons/logo.svg",
   },
 };
 
